@@ -1,0 +1,1 @@
+The scripts included in this folder are used to update the backup policy type of all Cosmos DBs on an Azure Tenant.
